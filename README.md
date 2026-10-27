@@ -1,4 +1,20 @@
-# t2c1-gladiatorz
-Private hackathon repository for Gladiatorz
-AgentTrust is a platform to discover, compare, and evaluate AI agents using the Solana Agent Registry's on-chain identity, reputation, and feedback data.
-It uses a React frontend and Node.js backend with explainable trust scores; the code is written, but testing, live Solana integration verification, wallet-based feedback, and deployment are still pending.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/d3940ec7-3914-42c5-b887-1ea3a66e683f
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

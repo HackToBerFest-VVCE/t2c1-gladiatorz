@@ -1,0 +1,6 @@
+{
+  "name": "TrustGuard Swarm: Solana Agent Registry & Verifiable Devnet Dispatcher",
+  "description": "Verifiable Solana Devnet AI Agent Registry, Dynamic Intent Synthesizer, 0-100 Trust Scorecard System, and x402 Micropayment Dispatcher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
